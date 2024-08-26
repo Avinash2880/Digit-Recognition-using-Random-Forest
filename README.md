@@ -1,6 +1,1 @@
-# Digits_recg
-
-in this mini project i have applied Random Forest to find the pattern in the data which represent the each pixels and its intensity with 100% accuracy in both testing and training.
-
-
-Here i have also used Pickle library to download the trained model which soon we can use to apply it to web apps etc.
+Developed a digit recognition system utilizing the Random Forest algorithm, achieving 100% accuracy in both training and testing phases, showcasing expertise in AI/ML techniques. Integrated the model into applications for effective optical character recognition and employed Python libraries like NumPy, Pandas, Matplotlib, and Pickle for data handling, visualization, and model serialization.
